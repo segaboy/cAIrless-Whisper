@@ -9,10 +9,10 @@ Requirements:
     ffmpeg (https://ffmpeg.org) must be installed and on PATH
 
 Usage:
-    python transcribe.py audio.mp3
-    python transcribe.py audio.mp3 --model medium
-    python transcribe.py audio.mp3 --output my_transcript.txt
-    python transcribe.py audio.mp3 --language en
+    python cairlesswhisper.py audio.mp3
+    python cairlesswhisper.py audio.mp3 --model medium
+    python cairlesswhisper.py audio.mp3 --output my_transcript.txt
+    python cairlesswhisper.py audio.mp3 --language en
 """
 
 import sys
