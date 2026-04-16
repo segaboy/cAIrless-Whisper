@@ -2,7 +2,7 @@
 
 A command-line tool that transcribes audio files to timestamped text using [OpenAI Whisper](https://github.com/openai/whisper). Supports MP3, MP4, WAV, M4A, FLAC, and other common formats.
 
-Transcripts are saved as plain text files with per-segment timestamps, plus a clean full-text section at the end — ready for searching, summarizing, or archiving.
+Transcripts are saved as plain text files with per-segment timestamps, plus a clean full-text section at the end, ready for searching, summarizing, or archiving.
 
 ---
 
